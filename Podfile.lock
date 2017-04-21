@@ -1,0 +1,12 @@
+PODS:
+  - TYAlertController (1.1.8)
+
+DEPENDENCIES:
+  - TYAlertController
+
+SPEC CHECKSUMS:
+  TYAlertController: 502d3dbc5d007e68559400b509c736f60ebc2cc1
+
+PODFILE CHECKSUM: e11750b583f353477253466a99bcef39e1ef1fb6
+
+COCOAPODS: 1.0.0.rc.2
